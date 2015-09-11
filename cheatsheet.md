@@ -39,3 +39,5 @@ git push origin update-cheatsheet
 
 #### Creates a branch, and moves you onto it at the same time
  		git checkout -b <new branch name>
+
+git checkout -b update-cheatsheet
